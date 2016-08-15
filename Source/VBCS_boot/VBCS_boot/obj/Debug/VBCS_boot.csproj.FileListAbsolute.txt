@@ -1,0 +1,9 @@
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\bin\Debug\VBCS_boot.exe.config
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\bin\Debug\VBCS_boot.exe
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\bin\Debug\VBCS_boot.pdb
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\obj\Debug\VBCS_boot.csprojResolveAssemblyReference.cache
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\obj\Debug\VBCS_boot.Form1.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\obj\Debug\VBCS_boot.Properties.Resources.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\obj\Debug\VBCS_boot.csproj.GenerateResource.Cache
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\obj\Debug\VBCS_boot.exe
+C:\Black Clover\Visual Black Clover System\Source\VBCS_boot\VBCS_boot\obj\Debug\VBCS_boot.pdb

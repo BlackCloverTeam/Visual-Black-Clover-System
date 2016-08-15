@@ -1,0 +1,11 @@
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\bin\Debug\Visual Black Clover System.exe.config
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\bin\Debug\Visual Black Clover System.exe
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\bin\Debug\Visual Black Clover System.pdb
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\obj\Debug\Visual Black Clover System.csprojResolveAssemblyReference.cache
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\obj\Debug\Visual_Black_Clover_System.Form1.resources
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\obj\Debug\Visual_Black_Clover_System.Properties.Resources.resources
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\obj\Debug\Visual Black Clover System.csproj.GenerateResource.Cache
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\obj\Debug\Visual Black Clover System.exe
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\obj\Debug\Visual Black Clover System.pdb
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\bin\Debug\VBCS_lib.dll
+C:\Black Clover\Visual Black Clover System\Source\Visual Black Clover System\Visual Black Clover System\bin\Debug\VBCS_lib.pdb

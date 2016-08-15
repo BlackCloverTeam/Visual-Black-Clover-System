@@ -1,0 +1,16 @@
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\bin\Debug\VBCS_lib.dll
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\bin\Debug\VBCS_lib.pdb
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.csprojResolveAssemblyReference.cache
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.Terminal.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.csproj.GenerateResource.Cache
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.dll
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.pdb
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.VBCS_Menu.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.Calculator.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.BC_Browser.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.VBCS_File.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.Properties.Resources.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.BC_Edit.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.VBCS_Message.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.BlueScreen.resources
+C:\Black Clover\Visual Black Clover System\Source\VBCS_lib\VBCS_lib\obj\Debug\VBCS_lib.FileWindow.resources

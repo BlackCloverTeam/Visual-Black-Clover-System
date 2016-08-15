@@ -1,0 +1,8 @@
+C:\Black Clover\Visual Black Clover System\Program Files\BC_Terminal\Sourse\BC_Terminal\BC_Terminal\bin\Debug\BC_Terminal.exe.config
+C:\Black Clover\Visual Black Clover System\Program Files\BC_Terminal\Sourse\BC_Terminal\BC_Terminal\bin\Debug\BC_Terminal.exe
+C:\Black Clover\Visual Black Clover System\Program Files\BC_Terminal\Sourse\BC_Terminal\BC_Terminal\bin\Debug\BC_Terminal.pdb
+C:\Black Clover\Visual Black Clover System\Program Files\BC_Terminal\Sourse\BC_Terminal\BC_Terminal\obj\Debug\BC_Terminal.Form1.resources
+C:\Black Clover\Visual Black Clover System\Program Files\BC_Terminal\Sourse\BC_Terminal\BC_Terminal\obj\Debug\BC_Terminal.Properties.Resources.resources
+C:\Black Clover\Visual Black Clover System\Program Files\BC_Terminal\Sourse\BC_Terminal\BC_Terminal\obj\Debug\BC_Terminal.csproj.GenerateResource.Cache
+C:\Black Clover\Visual Black Clover System\Program Files\BC_Terminal\Sourse\BC_Terminal\BC_Terminal\obj\Debug\BC_Terminal.exe
+C:\Black Clover\Visual Black Clover System\Program Files\BC_Terminal\Sourse\BC_Terminal\BC_Terminal\obj\Debug\BC_Terminal.pdb

@@ -1,0 +1,85 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace VBCS_lib
+{
+    public partial class VBCS_File : Form
+    {
+        public string RealPath = "C:/Black Clover/Visual Black Clover System/filesystem/DISK1";
+        public string VBCS_Path = ">";
+        public int dirl;
+        public Button[] dir = new Button[15];
+
+
+        public VBCS_File()
+        {
+            InitializeComponent();
+            RenderCurrentDirectory(RealPath);
+        }
+
+
+        public void RenderCurrentDirectory(string rcdPath)
+        {
+            string[] FilesDir = Directory.GetDirectories(rcdPath);
+            dirl = FilesDir.Length;
+            Point[] points = new Point[dir.Length];
+            int i = 0;
+            int pointx = 20; int pointy = 20;
+            while(i != dirl)
+            {
+                dir[i] = new Button();
+                points[i] = new Point(pointx, pointy);
+                dir[i].Location = points[i];
+                dir[i].Width = 450;
+                dir[i].Height = 25;
+                dir[i].Text = FilesDir[i].Substring(rcdPath.Length + 1);
+                dir[i].Click += new System.EventHandler(this.dir_Click);
+                this.Controls.Add(dir[i]);
+                pointy = pointy + 25;
+                i++;
+            }
+        }
+
+
+        private void dir_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                string[] ExDir = Directory.GetDirectories(RealPath);
+                byte i = 0;
+                while(i != ExDir.Length)
+                {
+                    if(VBCS_Path + ExDir[i].Substring(RealPath.Length + 1) == textBox1.Text)
+                    {
+                        RealPath = RealPath + "/" + textBox1.Text.Substring(VBCS_Path.Length);
+                        VBCS_Path = VBCS_Path + textBox1.Text.Substring(VBCS_Path.Length);
+                        if(ExDir.Length < dirl)
+                        {
+                            int r = ExDir.Length - dirl;
+                            while(r != 0)
+                            {
+                                dir[ExDir.Length - dirl + r].Visible = false;
+                                r--;
+                            }
+                        }
+                        RenderCurrentDirectory(RealPath);
+                    }
+                    i++;
+                }
+            }
+        }
+    }
+}
